@@ -6,7 +6,7 @@ app.debug = True
 
 mysql = MySQL()
 app.config['MYSQL_DATABASE_USER'] = 'root'
-app.config['MYSQL_DATABASE_PASSWORD'] = 'ivan'
+app.config['MYSQL_DATABASE_PASSWORD'] = 'viktor'
 app.config['MYSQL_DATABASE_DB'] = 'tp_db'
 app.config['MYSQL_DATABASE_HOST'] = 'localhost'
 
